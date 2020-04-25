@@ -1,0 +1,48 @@
+
+*
+{
+	  box-sizing: border-box;
+}
+
+.yazi
+{
+	font-size: 50px;
+        text-align: center;
+
+        color:orange;
+        font-weight: 800;
+    
+
+}
+td
+{
+width:  130px;
+height: 130px;
+
+}
+.yuxari
+{
+border-top: 20px solid orange
+}
+.awagi
+{
+border-bottom: 20px solid orange
+}
+.uzunu
+{
+          border-left:  20px solid orange;
+	  border-right: 20px solid orange;
+
+
+}
+.eni
+{
+	  border-bottom: 20px solid orange;
+}
+table
+{
+	  /*border-collapse: separate;*/
+    border-spacing: 0px;
+    text-align: center;
+}
+
